@@ -9,8 +9,8 @@ O Next Level Week é um evento totalmente online, gratuito e mão na massa promo
 <hr>
 
 <h3 align="center">🖼️ Imagens do projeto</h3>
-<center><img src="./assets/cardExplorer.png" style="widht:200px; height: 270px;"/>
-<img src="./assets/cardIgnite.png" style="widht:200px; height: 270px;"/></center>
+<img src="./assets/cardExplorer.png" style="widht:300px; height: 450px;"/>
+<img src="./assets/cardIgnite.png" style="widht:300px; height: 450px;"/>
 <hr>
 
 O conteúdo ensinado pode ser acessado pelo [link](https://www.youtube.com/watch?v=sswJisbD2CY, "Aula no Youtube") 
